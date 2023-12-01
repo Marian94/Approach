@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "email": "pablo@atratopago.com",
+        "phone": "+523333333333",
+        "name": "Pablo",
+        "middleName": null,
+        "fLastName": "Perez",
+        "sLastName": "Ramirez",
+        "birthday": "1990-04-23",
+        "status": "PENDIENTE",
+        "assignedAnalyst": "David"
+    },
+    {
+        "id": 2,
+        "email": "monica@atratopago.com",
+        "phone": "+52332140563",
+        "name": "Monica",
+        "middleName": "Maria",
+        "fLastName": "Flores",
+        "sLastName": "Herrera",
+        "birthday": "1998-02-12",
+        "status": "EN_PROCESO",
+        "assignedAnalyst": "David"
+    },
+    {
+        "id": 3,
+        "email": "david@atratopago.com",
+        "phone": "+523213453090",
+        "name": "David",
+        "middleName": null,
+        "fLastName": "Perez",
+        "sLastName": "Navarro",
+        "birthday": "1980-01-02",
+        "status": "PENDIENTE",
+        "assignedAnalyst": "David"
+    }
+]
